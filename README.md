@@ -1,4 +1,4 @@
-# React + Vite
+<img width="1915" height="1077" alt="Screenshot 2026-08-07 220347" src="https://github.com/user-attachments/assets/c9caed07-ae74-493e-8d8d-fa2b60387b5f" /># React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
@@ -52,6 +52,7 @@ This project was developed as a Full Stack AI application for the **AI Build 202
 - Approve / Reject Loan Applications
 - View Reports & Analytics
 - Manage Loan Status
+- In admin port there is an admin invite if you enter that then only you can register for the admin portal
 
 ---
 
