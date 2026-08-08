@@ -289,36 +289,73 @@ Admin Approval / Rejection
 ## Home Page
 
 (Add Screenshot)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4022c6b2-d748-45ac-b2fa-67de8486cc56" />
+customer signin page
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c513b8a7-f97f-49bb-9411-7e0896a37a83" />
+customer register page
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/86c6b515-b536-42e3-b94b-1ea1fab8574f" />
+admin register page
+<img width="1916" height="1075" alt="image" src="https://github.com/user-attachments/assets/c1853606-7aff-42a8-acd6-62adbd249f85" />
+admin signin page
 
 ---
 
 ## Customer Dashboard
 
 (Add Screenshot)
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/deba4c99-2ca5-4b83-8227-0196234ca3d8" />
+This is the example of customer dashboard
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/2f66a90d-b4ae-4be8-8d4d-c4e74f4d242f" />
+This is for uploading documents
+
 
 ---
 
 ## Admin Dashboard
 
 (Add Screenshot)
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/48a11dca-38fe-4d0a-abe6-9b4f11c145b9" />
+This is the admin dashboard
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f58e27d1-f9c0-4d94-af57-7d6db2e16aea" />
+This is the all loan requests
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a4e987e9-152e-49ca-80e7-5448a57446b0" />
+This is the all customer profiles
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/daa2bc11-e29f-4e39-a4b5-987c778d4d4d" />
+This is the approvals and rejection page history
 
 ---
 
 ## Loan Application
 
 (Add Screenshot)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e0aee2f6-c296-4da4-93bb-7adaf7efce5c" />
+step1: Personal details
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/2021bddb-abc6-4284-b7dc-46d3cd8d064b" />
+step2: Financial Info
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/4b7bca50-060a-4cdf-81eb-0d10b57d5a7f" />
+step3: Alternative data
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/92ff9259-c84e-4ab8-bcb7-d6f6a049f827" />
+step4: Review and submit the application
 
 ---
 
 ## AI Risk Analysis
 
 (Add Screenshot)
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/f10070e7-333f-406e-9008-e2c3a218c5b6" />
+This is the total risk analysis of all customers for admin portal
+<img width="1915" height="1076" alt="image" src="https://github.com/user-attachments/assets/bf3c96db-d4c3-4b37-a82b-e3c0efb99c60" />
+This is the risk analysis of each customer and this is the example
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/cf7ea3e7-2e23-4bc5-b413-9ef6fe584ece" />
+we can also check the application status for the customer
 
 ---
 
 ## Fraud Detection
 
 (Add Screenshot)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/3c66a22f-cf15-496c-8963-1e5e749dfa8d" />
 
 ---
 
